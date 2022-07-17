@@ -9,3 +9,5 @@ git config --list
 git log
 
 git clone <git을 다운받을 주소>
+
+... local = library , 
