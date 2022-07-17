@@ -1,9 +1,9 @@
 # 명령어
-  markdown 파일 생성
+[markdown 파일 생성]
 
  echo "# test" >> README.md
 
-  초기화
+ [초기화]
 
  git init	
 
