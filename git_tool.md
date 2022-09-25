@@ -46,4 +46,4 @@
  git clone <git을 다운받을 주소>
 ```
 
-### ... 로컬 = library , 원격저장소 = github
+#### 로컬 = library , 원격저장소 = github
